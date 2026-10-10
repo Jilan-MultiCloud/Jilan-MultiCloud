@@ -29,6 +29,4 @@ I am passionate about building resilient cloud architectures, automating deploym
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jilan-MultiCloud&theme=radium)](https://git.io/streak-stats)
 
-### 📫 Let's Connect
-*   **LinkedIn:** `[Add your LinkedIn URL]`
-*   **Portfolio:** `[Add your Portfolio URL if applicable]`
+

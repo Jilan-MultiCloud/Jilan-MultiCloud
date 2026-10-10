@@ -2,7 +2,12 @@
 
 **Cloud Infrastructure Enthusiast | DevOps & Cloud Engineer**
 
-I am passionate about building resilient cloud architectures, automating deployments, and optimizing cloud environments. I am currently pursuing a Postgraduate Program in MULTI CLOUD ARCHITECTURE & DEVOPS from Hero Vired, in collaboration with Microsoft. Through this program, I am building the fundamental knowledge and skills needed to design, configure, and deploy secure and robust cloud infrastructure.
+I am passionate about building resilient cloud architectures, automating deployments, and optimizing cloud environments. 
+*   **Current Focus:** Building a comprehensive **Capstone Multi-Cloud Project** across **GCP, AWS, and Azure** to solve complex infrastructure challenges.
+*   **Currently Learning:** Advanced **DevOps methodologies**, CI/CD automation, and site reliability engineering.
+*   **Looking to Collaborate On:** Open-source cloud native architectures, multi-cloud deployments, and automated infrastructure frameworks.
+*   **Ask Me About:** Multi-cloud integrations, navigating AWS/GCP/Azure environments, or my journey into DevOps.
+*   **Fun Fact:** I deploy architectures in the cloud faster than I can decide what to order for lunch! 
 
 ### 🚀 What I'm Currently Working On & Learning
 
